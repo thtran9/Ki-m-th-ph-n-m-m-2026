@@ -21,7 +21,7 @@
 
 ---
 
-## 2.2. Trải nghiệm kiểm thử giao diện với :contentReference[oaicite:0]{index=0}
+## 2.2. Trải nghiệm kiểm thử giao diện với :
 - Truy cập website: https://cantunsee.space/  
 - Thực hiện các bài kiểm tra phân biệt màu sắc và chi tiết giao diện  
 - **Mục tiêu:** đạt điểm số cao nhất, qua đó đánh giá khả năng quan sát và nhận diện giao diện người dùng (UI)  
